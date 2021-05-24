@@ -3,7 +3,7 @@
  
 Plugin Name: Plugin Testing
  
-Plugin URI: http://localhost:8888/mysite
+Plugin URI: https://github.com/nathanramsdell/
  
 Description: Learning how to add plugins to sites
  
@@ -11,7 +11,7 @@ Version: 1.0
  
 Author: Nathan Ramsdell
  
-Author URI: http://localhost:8888/mysite
+Author URI: https://github.com/nathanramsdell/
  
 License: GPLv2 or later
  
